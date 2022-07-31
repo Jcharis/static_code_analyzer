@@ -1,2 +1,2 @@
-# static_code_analyzer
-Streamlit Static Code Analyzer App
+# static_code_analysis_app
+Static Code Analysis App with Streamlit and Python
